@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: authorize-service
+  profiles:
+    active: local
